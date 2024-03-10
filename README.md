@@ -2,9 +2,9 @@
 
 ## Grupo 7 - Nomes:
 
-Alexander 
-Cleber
-Fernanda
-Giovanna 
-Kalliani
-Luiz Miguel
++ Alexander 
++ Cleber
++ Fernanda
++ Giovanna 
++ Kalliani
++ Luiz Miguel
