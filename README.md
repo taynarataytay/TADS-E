@@ -1,6 +1,6 @@
 # TADS-E - Exercício 8.
 
-## Nomes:
+## Nomes
 
 Alexander 
 Cleber
