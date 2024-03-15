@@ -3,8 +3,9 @@
 ## Grupo 7 - Nomes:
 
 + Alexander 
-+ Cleber da Silva Junior
-+ Fernanda De Oliveira Gomes
-+ Giovanna de Souza Moreira 
++ Cleber 
++ Fernanda 
++ Giovanna 
 + Kalliani Lima dos Santos
-+ Luiz Miguel Mancino 
++ Luiz 
++ 
