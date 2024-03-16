@@ -7,5 +7,5 @@
 + Fernanda 
 + Giovanna 
 + Kalliani Lima dos Santos
-+ Luiz 
++ Luis Miguel Mancino Gotsfritz
 + 
