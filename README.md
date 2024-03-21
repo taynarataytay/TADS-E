@@ -2,7 +2,7 @@
 
 ## Grupo 7 - Nomes:
 
-+ Alexander 
++ Alexander Santos Viana
 + Cleber 
 + Fernanda 
 + Giovanna 
