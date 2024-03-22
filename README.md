@@ -8,4 +8,4 @@
 + Giovanna Moreira
 + Kalliani Lima dos Santos
 + Luis Miguel Mancino Gotsfritz
-+ 
++ Taynara Ferreira Rocha
