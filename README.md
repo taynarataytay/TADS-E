@@ -4,7 +4,7 @@
 
 + Alexander Santos Viana
 + Cleber 
-+ Fernanda 
++ Fernanda de Oliveira Gomes
 + Giovanna 
 + Kalliani Lima dos Santos
 + Luis Miguel Mancino Gotsfritz
