@@ -3,9 +3,9 @@
 ## Grupo 7 - Nomes:
 
 + Alexander Santos Viana
-+ Cleber 
++ Cleber Junior
 + Fernanda de Oliveira Gomes
-+ Giovanna 
++ Giovanna Moreira
 + Kalliani Lima dos Santos
 + Luis Miguel Mancino Gotsfritz
 + 
